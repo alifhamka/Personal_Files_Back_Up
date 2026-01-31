@@ -6,15 +6,15 @@ from datetime import datetime
 
 
 # Local user and home directory
-LOCAL_USER = "alex"
+LOCAL_USER = "alif"
 HOME_DIRECTORY = f"/home/{LOCAL_USER}/"
 
 
 # First backup server (Incase i forget the password: BackupServer!2022)
-FIRST_BACKUP_SERVER = "alex@203.0.113.42:/srv/backups/alex/"
+FIRST_BACKUP_SERVER = "alif@203.0.113.42:/srv/backups/alif/"
 
 # Second backup server (Incase i forget the password: MirrorNode#17)
-SECOND_BACKUP_SERVER = "alex@198.51.100.17:/srv/mirror/alex/"
+SECOND_BACKUP_SERVER = "alif@198.51.100.17:/srv/mirror/alif/"
 
 
 # Folders to back up
